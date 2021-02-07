@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"module": "ESNext",
+		"outDir": "dist",
+		"sourceMap": true,
+		"strict": true,
+		"target": "es2015"
+	},
+	"include": [
+		"./src/**/*.ts"
+	],
+	"exclude": ["node_modules"]
+}
